@@ -1,0 +1,1 @@
+netstat -ano | findstr LISTENING | findstr :5000
